@@ -1,8 +1,8 @@
-* Yet Another Souls-like Death Counter (Python)
-- Libraries:
--- tkinter (For Window)
--- pynput (For keyboard listening)
--- threading (For running application in the background)
+<h1>Yet Another Souls-like Death Counter (Python)</h1>
+<h2>-Libraries:</h2>
+<li>-tkinter (For Window)</li>
+<li>-pynput (For keyboard listening)</li>
+<li>-threading (For running application in the background)</li>
 
 
 This is just a little death counter I wrote to track my failure. There are some little issues and graphical things I will be adding.
