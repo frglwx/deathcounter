@@ -4,7 +4,7 @@
 <li>pynput (For keyboard listening)</li>
 <li>threading (For running application in the background)</li>
 
-This is just a little death counter I wrote to track my failure. There are some little issues and graphical things I will be adding.
+<p>This is just a little death counter I wrote to track my failure. There are some little issues and graphical things I will be adding.</p>
 
 <h2>TODO</h2>
 <li>Fix F10 not resetting (only seems to do it after two presses for some reason)</li>
